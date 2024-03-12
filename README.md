@@ -1,10 +1,10 @@
 ### Hi, I'm Ryan 👋
 ---
 
-#### I'm an Experienced Data Analyst based in the Dallas-Fort Worth Metroplex.
+#### I'm an experienced Data Analyst based in the Dallas-Fort Worth Metroplex.
 
 - 🏢 I'm currently working with awesome folks at **Autodesk**
-- ⚙️ I use daily: **SQL, Power BI, Python**
+- ⚙️ I use daily: **SQL, Power BI, Python, Git, dbt**
 - 🌱 Learning more about and studying: A/B Testing, Data Engineering, Analytics Engineering
 - 💬 Ping me about: **Data Science**, **Product Analytics**, **Memes**, **Goldendoodles**, **Cooking**, **Traveling**, **LGBTQ+ Rights**
 - 📫 Reach me asap: ryanyang580@gmail.com
